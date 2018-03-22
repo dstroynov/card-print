@@ -1,0 +1,25 @@
+@page {
+   size: 21cm 29.7cm;
+   margin: 0;
+}
+
+.print-table {
+    border-collapse: collapse;
+    width: 21cm;
+    margin: 0;
+    height: 100%;
+}
+
+.print-table > div.bordered {
+    border: 1px dashed grey;
+}
+
+.print-table > div {
+    width: 10.5cm;
+    height: 74.25mm;
+    line-height: 74.25mm;
+    box-sizing: border-box;
+    float:left;
+    vertical-align: middle;
+    font-size: 32px;
+}
