@@ -106,7 +106,7 @@
         "react/jsx-indent-props": ["error", 4],
         "react/jsx-key": "error",
         "react/jsx-no-bind": "error",
-        "react/jsx-space-before-closing": "error"
+        "react/jsx-tag-spacing": "error"
     },
     "globals" : {
         "Ext": true,
