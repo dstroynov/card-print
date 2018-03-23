@@ -3,8 +3,11 @@
    margin: 0;
 }
 
+body {
+   margin: 0;
+}
+
 .print-table {
-    border-collapse: collapse;
     width: 21cm;
     margin: 0;
     height: 100%;
@@ -20,6 +23,6 @@
     line-height: 74.25mm;
     box-sizing: border-box;
     float:left;
-    vertical-align: middle;
+    text-align: center;
     font-size: 32px;
 }
