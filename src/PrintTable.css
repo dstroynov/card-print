@@ -14,7 +14,7 @@ body {
 }
 
 .print-table > div.bordered {
-    border: 1px dashed grey;
+    border: 1px dashed whitesmoke;
 }
 
 .print-table > div {
